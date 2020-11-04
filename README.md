@@ -1,5 +1,13 @@
 # TimeSeriesForecasting_part1
 
+##### Defining the time series
+
+##### Analysing a time-series data to identify patterns.
+
+##### Build various time series models to forecast
+
+##### Evaluate the forecast using various error measures
+
 - started this session by exploring the difference between time series and simple regression.
 - Exploring the popular smoothing techniques used for forecasting and built them on Air Passenger Traffic Dataset to forecast the future.
 - started this by first exploring the simple forecasting techniques. They are:
